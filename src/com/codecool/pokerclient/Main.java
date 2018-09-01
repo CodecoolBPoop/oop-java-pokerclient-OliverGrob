@@ -1,4 +1,4 @@
-import java.util.HashMap;
+package com.codecool.pokerclient;
 
 public class Main {
 
